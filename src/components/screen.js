@@ -1,5 +1,4 @@
 import React from "react";
-import Timer from "./timer";
 import Button from "./button";
 import CircularProgressbar from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
