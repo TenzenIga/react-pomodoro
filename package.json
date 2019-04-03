@@ -2,9 +2,8 @@
   "name": "pomodoro-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TenzenIga/github.io/react-pomodoro/",
+  "homepage": "https://TenzenIga.github.io/react-pomodoro",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-circular-progressbar": "^1.0.0",
     "react-dom": "^16.8.4",

@@ -3,8 +3,6 @@ import Sidebar from "./components/sidebar";
 import Screen from "./components/screen";
 import "./App.css";
 import tuturu from "./assets/tuturu_1.mp3";
-
-const defaultTime = 60;
 class App extends Component {
   constructor() {
     super();
@@ -25,20 +23,6 @@ class App extends Component {
     this.handleWorktime = this.handleWorktime.bind(this);
   }
   audio = new Audio(tuturu);
-
-  /* tick(){
-    if(this.state.seconds === 0 && this.state.status === 'break'){
-      clearInterval()
-    }else if(this.state.seconds === 0 && this.state.status === 'work'){
-      clearInterval()
-    }else{
-      this.setState({
-       seconds:this.state.seconds - 1,
-       percentage: 0
-      })
-    }
-  }
-*/
 
   start() {
     const { breakTime, workTime, status } = this.state;
@@ -159,7 +143,7 @@ class App extends Component {
   render() {
     const { workTime } = this.state;
     return (
-      <div className="app">
+      <div className="App">
         <Sidebar
           handleInput={this.handleInput}
           workTime={this.state.workTime}

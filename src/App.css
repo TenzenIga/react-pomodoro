@@ -16,7 +16,7 @@ body {
   height: 100%;
   background: #d93722;
 }
-.app {
+.App {
   display: flex;
 }
 .sidebar {
@@ -96,7 +96,7 @@ body {
   margin: 10px;
 }
 @media screen and (max-width: 600px) {
-  .app {
+  .App {
     flex-direction: column;
   }
   .sidebar {
