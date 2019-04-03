@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TenzenIga/react-pomodoro/precache-manifest.c54fc9b97995c98c66d667b649a78d83.js"
+  "/github.io/react-pomodoro/precache-manifest.a5a83e31aa03da41d3994d3f142ad2ae.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TenzenIga/react-pomodoro/index.html", {
+workbox.routing.registerNavigationRoute("/github.io/react-pomodoro/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
