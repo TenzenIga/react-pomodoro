@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github.io/react-pomodoro/precache-manifest.688c90f7bc62a069ac4c0077a5f84f94.js"
+  "/react-pomodoro/precache-manifest.a48bd251d0dd9ffa343f9b0aeb76b346.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/github.io/react-pomodoro/index.html", {
+workbox.routing.registerNavigationRoute("/react-pomodoro/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
