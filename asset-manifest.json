@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-pomodoro/static/css/main.932fa9b4.chunk.css",
+  "main.css": "/react-pomodoro/static/css/main.a63b2fd3.chunk.css",
   "main.js": "/react-pomodoro/static/js/main.0ea78ef9.chunk.js",
   "main.js.map": "/react-pomodoro/static/js/main.0ea78ef9.chunk.js.map",
   "runtime~main.js": "/react-pomodoro/static/js/runtime~main.69fb4663.js",
@@ -8,9 +8,9 @@
   "static/js/2.1698cdb7.chunk.js": "/react-pomodoro/static/js/2.1698cdb7.chunk.js",
   "static/js/2.1698cdb7.chunk.js.map": "/react-pomodoro/static/js/2.1698cdb7.chunk.js.map",
   "index.html": "/react-pomodoro/index.html",
-  "precache-manifest.a48bd251d0dd9ffa343f9b0aeb76b346.js": "/react-pomodoro/precache-manifest.a48bd251d0dd9ffa343f9b0aeb76b346.js",
+  "precache-manifest.45b57dffd6e5bee5b5d4b066654bd6f4.js": "/react-pomodoro/precache-manifest.45b57dffd6e5bee5b5d4b066654bd6f4.js",
   "service-worker.js": "/react-pomodoro/service-worker.js",
   "static/css/2.634acf5a.chunk.css.map": "/react-pomodoro/static/css/2.634acf5a.chunk.css.map",
-  "static/css/main.932fa9b4.chunk.css.map": "/react-pomodoro/static/css/main.932fa9b4.chunk.css.map",
+  "static/css/main.a63b2fd3.chunk.css.map": "/react-pomodoro/static/css/main.a63b2fd3.chunk.css.map",
   "static/media/tuturu_1.mp3": "/react-pomodoro/static/media/tuturu_1.54d79b64.mp3"
 }
